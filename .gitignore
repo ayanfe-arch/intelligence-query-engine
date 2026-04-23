@@ -1,5 +1,14 @@
+# dependencies
 node_modules/
-.env
-.env.
 
-//https://github.com/ayanfe-arch/intelligence-query-engine.git
+# environment variables
+.env
+.env.*
+
+# logs
+npm-debug.log
+yarn-error.log
+
+# OS files
+.DS_Store
+Thumbs.db
