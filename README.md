@@ -3,7 +3,8 @@
 A REST API that accepts a name, enriches it with data from three external APIs, stores it in MongoDB, and exposes endpoints to query and manage profile data with advanced filtering, sorting, pagination, and natural language search.
 
 ## Live URL
-https://your-railway-url.up.railway.app
+https://intelligence-query-engine-production-d738.up.railway.app
+
 
 ## GitHub Repo
 https://github.com/ayanfe-arch/hng-stage2
